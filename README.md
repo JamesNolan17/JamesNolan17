@@ -1,3 +1,4 @@
+<h2 align="center">Wang Chenyu (aka. James Nolan)<h2>
 <h3 align="center">Full stack dev, machine learning and more</h3>
 
 - 🌱 I’m currently learning **React Native for web, Flask and C++**
