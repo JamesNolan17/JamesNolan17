@@ -1,4 +1,4 @@
-<h2 align="center">Wang Chenyu (aka. James Nolan)<h2>
+<h1 align="center">Hi, I'm Wang Chenyu (aka James Nolan)</h1>
 <h3 align="center">Full stack dev, machine learning and more</h3>
 
 - 🌱 I’m currently learning **React Native for web, Flask and C++**
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wang-chenyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/wang-chenyu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wang-chenyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="wang-chenyu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/james nolan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="james nolan" height="30" width="40" /></a>
 </p>
 
@@ -21,3 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamesnolan17&show_icons=true&locale=en&layout=compact" alt="jamesnolan17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesnolan17&show_icons=true&locale=en" alt="jamesnolan17" /></p>
+
