@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wang-chenyu" target="blank"><img align="center" src="https://github.com/Automattic/social-logos/blob/master/svg-min/linkedin.svg" alt="wang-chenyu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wang-chenyu" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wang-chenyu" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
