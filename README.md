@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native for web, Flask and C++**
 
-- 💬 Ask me about **React, Angular**
+- 💬 Ask me about **React, Angular, Python backends, Docker and Openwrt**
 
 - 📫 How to reach me **vip17jamesnolan@gmail.com**
 
