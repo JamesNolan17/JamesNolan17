@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Wang Chenyu (a.k.a. James Nolan)</h1>
-<h3 align="center">Full stack dev, machine learning and more</h3>
+<h3 align="center">Full stack development, machine learning and hail Debian!</h3>
 
 - 🌱 I’m currently learning **React Native for web, Flask and C++**
 
