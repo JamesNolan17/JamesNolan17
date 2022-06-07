@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Wang Chenyu (a.k.a. James Nolan)</h1>
 <h3 align="center">Full stack development, machine learning and hail Debian!</h3>
 
-- 🌱 I’m currently learning **React Native for web, Flask and C++**
+- 🌱 I’m currently learning **C++, Artificial Intelligence, Game Theory**
 
 - 💬 Ask me about **React, Angular, Python backends, Docker and Openwrt**
 
 - 📫 How to reach me **vip17jamesnolan@gmail.com**
 
-- ⚡ Fun fact **I love Apple, Nintendo and Tesla**
+- ⚡ Fun fact **I love Pokemon so much!**
 
 <h3 align="left">Connect with me:</h3>
 <p align = "left">
